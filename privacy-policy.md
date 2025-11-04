@@ -1,6 +1,7 @@
 ---
 title: Privacy Policy
 permalink: /
+layout: null
 ---
 
 # プライバシーポリシー
