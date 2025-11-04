@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+permalink: /
+---
+
 # プライバシーポリシー
 
 最終更新日： 2025-11-04  
